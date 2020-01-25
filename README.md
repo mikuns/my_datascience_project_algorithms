@@ -1,2 +1,2 @@
-# Data Science Project Algorithms
+# Data Science Algorithms on Various Projects
 Would be updated weekly
